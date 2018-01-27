@@ -1,2 +1,2 @@
 # Carrefour-Simulator
-simulation d'un carrefour routière par système multi-agent (JADE) 
+simulation d'un carrefour routière en système multi-agent (JADE) 
